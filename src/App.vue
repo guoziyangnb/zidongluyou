@@ -1,14 +1,1 @@
-<template>
-  <div id="app">
-    <BasicLayout />
-  </div>
-</template>
-
-<script setup lang="ts">
-import BasicLayout from "@/layout/BasicLayout.vue";
-</script>
-
-<style>
-#app { 
-} 
-</style>
+<template>n  <div id="app">n    <BasicLayout />n  </div>n</template>nn<script setup lang="ts">n// @ts-ignorenimport BasicLayout from "@/layout/BasicLayout.vue";n</script>nn<style>n#app { n} n</style>
